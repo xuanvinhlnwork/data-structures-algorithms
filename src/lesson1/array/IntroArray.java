@@ -13,6 +13,6 @@ public class IntroArray {
             }
         }
 
-        System.out.println(max);
+        System.out.println("The max number in array is: " + max);
     }
 }
