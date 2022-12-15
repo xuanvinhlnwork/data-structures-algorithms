@@ -13,6 +13,8 @@ public class LeetCode1295 {
                 x /= 10;
                 numDigital++;
             }
+            
+            // good no comment
             if (numDigital % 2 == 0) {
                 count++;
             }
